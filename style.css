@@ -41,3 +41,8 @@ th,td{
   padding:20px;
  
 }
+
+#logo{
+  margin:50px auto;
+  desplay:block;
+}
