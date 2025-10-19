@@ -1,0 +1,43 @@
+body{
+ magrgin:0px;
+  text-align:center;
+  background-color:#34ab;
+    color:white;
+  font-family:Aria;
+}
+h1{
+  margin-top:80px;
+}
+h2{
+  margin:50px;
+}
+nav{
+  width:100%;
+    position:fixed;
+  background-color:white;
+  margin-top:0;
+  top:0;
+  padding:0;
+}
+nav ul{
+  list-style:none;
+  display:flex;
+  gap:50px;
+  justify-content:center;
+}
+nav a{
+  text-decoration:none;
+  color:black;
+}
+table{
+  text-align:center;
+  margin:50px auto;
+  padding:10px auto;
+  width:60%;
+  border-collapse:collapse;
+}
+th,td{
+  border:3px solid;
+  padding:20px;
+ 
+}
